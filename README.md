@@ -1,6 +1,6 @@
-# An Introduction To Utilizing Public-Key Cryptography In Javascript
+# Utilizing Public-Key Cryptography 
 
-## Open Cryptochat - A Tutorial
+## Open Cryptochat
 
 Cryptography is important.  Without encryption, the internet as we know it would not be possible - data sent online would be as vulnerable to interception as a message shouted across a crowded room.  Cryptography is also a major topic in current events, increasingly playing a central role in [law enforcement investigations](https://en.wikipedia.org/wiki/FBI%E2%80%93Apple_encryption_dispute) and [government legislation](https://www.politico.com/tipsheets/morning-cybersecurity/2017/11/10/texas-shooting-could-revive-encryption-legislation-223290).
 
