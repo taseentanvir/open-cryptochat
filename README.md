@@ -8,23 +8,21 @@ Encryption is an invaluable tool for journalists, activists, nation-states, busi
 
 ![Screenshot 5](https://cdn.patricktriest.com/blog/images/posts/e2e-chat/screenshot_5.png)
 
-will walk through the basic concepts and implementation of an end-to-end 2048-bit [RSA encrypted](<https://en.wikipedia.org/wiki/RSA_(cryptosystem)>) messenger. We'll be utilizing [Vue.js](https://vuejs.org/) for coordinating the frontend functionality along with a [Node.js](https://nodejs.org/en/) backend using [Socket.io](https://socket.io/) for sending messages between users.
-
-Project Stack:
+### Project Stack:
 
 - Front-end: Vue.js
 - For sending messages: Socket.io
 - Back-end: Node.js
 
+This app is 100% open-source, feel free to utilize the code however you would like.
+
 - Live Preview - http://vue-crypto-chat.herokuapp.com/
 - Github Repository - https://github.com/taseentanvir/open-cryptochat
-
-This app is 100% open-source, feel free to utilize the code however you would like.
 
 ```
 The MIT License (MIT)
 
-Copyright (c) 2018 Taseen Tanvir
+Copyright (c) 2020 Taseen Tanvir
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
