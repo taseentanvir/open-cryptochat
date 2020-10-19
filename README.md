@@ -10,9 +10,9 @@ Encryption is an invaluable tool for journalists, activists, nation-states, busi
 
 ### Project Stack:
 
-- Front-end: Vue.js
-- For sending messages: Socket.io
-- Back-end: Node.js
+- Front-end: [Vue.js](https://vuejs.org/)
+- For sending messages: [Socket.io](https://socket.io/)
+- Back-end: [Node.js](https://nodejs.org/en/)
 
 This app is 100% open-source, feel free to utilize the code however you would like.
 
