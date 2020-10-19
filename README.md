@@ -19,12 +19,6 @@ Project Stack:
 - Live Preview - http://vue-crypto-chat.herokuapp.com/
 - Github Repository - https://github.com/taseentanvir/open-cryptochat
 
-> Disclaimer - This is meant to be a primer in end-to-end encryption implementation, not a definitive guide to building the Fort Knox of browser chat applications. I've worked to provide useful information on adding cryptography to your Javascript applications, but I cannot 100% guarantee the security of the resulting app. There's a lot that can go wrong at all stages of the process, especially at the stages not covered by this tutorial such as setting up web hosting and securing the server(s). If you are a security expert, and you find vulnerabilities in the tutorial code, please feel free to reach out to me by email (taseentanvir@gmail.com) or in the comments section below.
-
-To read more, visit - https://github.com/taseentanvir/open-cryptochat
-
----
-
 This app is 100% open-source, feel free to utilize the code however you would like.
 
 ```
